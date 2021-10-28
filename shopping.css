@@ -1,0 +1,15 @@
+body{
+    background-color: lightsteelblue;
+  }
+html#ecwid_html body#ecwid_body .ecsp .ecwid-btn--primary:hover, html#ecwid_html body#ecwid_body .ecwid .ecwid-btn--primary{
+    background-color: #333333;
+    color: white;
+  }
+html#ecwid_html body#ecwid_body .ecsp .ecwid-btn--primary:hover, html#ecwid_html body#ecwid_body .ecwid .ecwid-btn--primary:hover {
+    background-color: #750001;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: background .1s;
+    transition: background .1s;
+}
